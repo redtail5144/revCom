@@ -56,5 +56,3 @@ for(my $i = 0; $i < $index; $i++) {
 
 # Closes the file
 close(FILE);
-
-# FUCK PERL
